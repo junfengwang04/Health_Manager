@@ -1,0 +1,31 @@
+# Copy this file to `local.properties` in project root and fill your own values.
+# Do not commit the real `local.properties`.
+
+# ===== PocketBase =====
+PB_BASE_URL=http://your-pocketbase-host:8090
+PB_ADMIN_EMAIL=your_admin_email@example.com
+PB_ADMIN_PASSWORD=your_admin_password
+
+# ===== Bmob =====
+BMOB_APP_ID=your_bmob_app_id
+BMOB_REST_KEY=your_bmob_rest_key
+BMOB_MASTER_KEY=your_bmob_master_key
+BMOB_BASE_URL=https://api.bmobapp.com
+
+# ===== Qwen =====
+QWEN_API_KEY=your_qwen_api_key
+QWEN_CHAT_URL=https://your_qwen_endpoint/v1/chat/completions
+QWEN_MODEL=qwen3.5-flash
+
+# ===== Baidu AI =====
+BAIDU_API_KEY=your_baidu_api_key
+BAIDU_SECRET_KEY=your_baidu_secret_key
+BAIDU_TOKEN_URL=https://your_baidu_token_endpoint/oauth/2.0/token
+BAIDU_FOOD_IDENTIFY_URL=https://your_baidu_food_identify_endpoint/rest/2.0/image-classify/v2/dish
+
+# ===== Optional local test accounts =====
+BMOB_ELDER_PHONE=13800000000
+BMOB_GUARDIAN_PHONE=13900000000
+
+# ===== Android SDK path =====
+# sdk.dir=D:\\Android_SDK
