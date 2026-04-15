@@ -9,6 +9,12 @@
 - 核心价值：提升服药依从性、简化健康记录、降低家庭照护沟通成本
 - 形态特点：双角色登录、跨设备同步、弱网可用（本地缓存 + 云端快照）
 
+## 安装入口
+<img width="234" height="234" alt="healthmanager" src="https://github.com/user-attachments/assets/04f704da-bd39-4fa9-97b4-bf4ea61b2801" />
+
+
+
+
 ## 核心功能
 
 ### 老人端
